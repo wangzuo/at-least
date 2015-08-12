@@ -1,0 +1,22 @@
+{
+  "name": "at-least",
+  "version": "1.0.0",
+  "description": "Some function just run too fast",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/tape/bin/tape test.js"
+  },
+  "author": "Wang Zuo",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangzuo/at-least.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wangzuo/at-least/issues"
+  },
+  "homepage": "https://github.com/wangzuo/at-least#readme"
+}
