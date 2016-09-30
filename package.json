@@ -9,7 +9,7 @@
   "author": "Wang Zuo",
   "license": "ISC",
   "devDependencies": {
-    "tape": "^4.0.3"
+    "tape": "^4.6.2"
   },
   "repository": {
     "type": "git",
